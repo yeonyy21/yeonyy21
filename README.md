@@ -10,6 +10,7 @@
 ## 🚀 주요 이력 및 활동
 
 - **SpaceX STARLINK 취약점 제보**
+  https://github.com/yeonyy21/Starlink-Research
 - **경찰대학 치안 데이터 과학 연구센터 학생연구원**
 - **경찰대학 법학과 범죄수사학 전공 (4학년)**
 
