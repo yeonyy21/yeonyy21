@@ -38,4 +38,3 @@
 ## 📬 Contact
 
 - **Email**: yeony03211@gmail.com
-- **GitHub**: [github.com/your_github_id](https://github.com/your_github_id)
