@@ -20,7 +20,7 @@ https://github.com/yeonyy21/TrafficVLM_LLaVA_FineTuned
 
 ## 🎓 수료 교육 및 자격증
 
-- **KITRI 차세대 보안 리더 양성 프로그램 (BoB) 13기** 취약점 분석 트랙 수료 (2025)
+- **KITRI 차세대 보안 리더 양성 프로그램 (BoB) 13기 취약점 분석 트랙 수료 (2025)**
 - **KITRI 화이트햇스쿨 (WHS) 수료 (2024)**
 - **KISA K-Shield Start-Up Jr. 수료 (2023)**
 - **빅데이터분석 준전문가 자격증 취득 (2023)**
