@@ -13,6 +13,7 @@
 - **SpaceX STARLINK 취약점 제보**
   https://github.com/yeonyy21/Starlink-Research
 - **경찰대학 치안데이터과학연구센터(PSDS) 학생연구원**
+https://github.com/yeonyy21/MayakInvestigation_LLaVA_FineTuned
 - **경찰대학 법학과 범죄수사학 전공 (4학년)**
 https://github.com/yeonyy21/TrafficVLM_LLaVA_FineTuned
 
