@@ -13,14 +13,10 @@
 - **SpaceX STARLINK 취약점 제보**
   https://github.com/yeonyy21/Starlink-Research
 - **경찰대학 치안데이터과학연구센터(PSDS) 학생연구원**
-  
 LLaVA 1.6 기반 마약 범죄 수사 지원 디지털 포렌식 이미지 자동 분류 시스템
-
 https://github.com/yeonyy21/MayakInvestigation_LLaVA_FineTuned
 - **경찰대학 법학과 범죄수사학 전공 (4학년)**
-  
 LLaVA 1.6 기반 오토바이 안전모 착용 여부 자동 판독 시스템  
-
 https://github.com/yeonyy21/TrafficVLM_LLaVA_FineTuned
 
 ---
