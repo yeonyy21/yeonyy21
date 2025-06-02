@@ -39,8 +39,17 @@ https://github.com/yeonyy21/TrafficVLM_LLaVA_FineTuned
 - LLM 모델 파인튜닝
 - 디지털포렌식 & 증거법
 
+---
+
+## 수행 연구
+
+- LLaVA 1.6 기반 마약 범죄 수사 지원 디지털 포렌식 이미지 자동 분류 시스템
+https://github.com/yeonyy21/MayakInvestigation_LLaVA_FineTuned
+- LLaVA 1.6 기반 오토바이 안전모 착용 여부 자동 판독 시스템  
+https://github.com/yeonyy21/TrafficVLM_LLaVA_FineTuned
 
 ---
+
 
 ## 📬 Contact
 
